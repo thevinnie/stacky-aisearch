@@ -2,6 +2,10 @@
 
 ## Steps
 
+### Azure AI Search
+0. This should already be available in your subscription with an Embeddings model deployed. The default in the labs is text-embeddings-ada-002.
+
+
 ### Storage
 
 1. In your Azure subscription, create an ADLS Gen 2 storage account.
