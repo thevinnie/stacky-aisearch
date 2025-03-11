@@ -10,7 +10,7 @@
 
 1. In your Azure subscription, create an ADLS Gen 2 storage account.
 2. Create a container called "stackexchange"
-3. From this repository, download genai.json
+3. From this repository, choose 1 file from a site of your interest from the /data/ folder
 4. Upload to the "stackechange" folder in ADLSGen2.  
 ( The zip file contains other data which may be useful to you after this lab, uploading more than 1 file will take up to two hours (or more) to index. )
 
