@@ -1,0 +1,17 @@
+
+
+What are the most frequently discussed issues people have with Azure?
+What concerns do people have about Microsoft technologies?
+What services are people references when talking about Azure Capacity challenges?
+What services are people references when talking about Azure service availability challenges?
+What are the most frequently referenced Generative AI challenges bring discussed?
+What issues are using having with Synapse Pipelines?
+What is the biggest challenge being discussed related to Azure Networking?
+What are the top 5 challenges being discussed related to Azure Networking?
+
+What questions are being asked about Power Automate?
+What challenges are uisng having related to SharePoint Online?
+Are people having permissions issues with cross-tenant sharing in Microsoft services?
+What are people saying about Microsoft Defender?
+
+How are people comparing Azure to AWS?

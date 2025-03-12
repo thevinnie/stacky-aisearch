@@ -47,7 +47,7 @@
 ### Azure AI Foundry Chat Playground
 
 20. Inside the Azure AI Foundry portal, click on the Chat option under Playground
-21. Enter the instructions from promopt.txt in "Give the model instructions and context", then click Apply Changes
+21. Enter the instructions from grounding.txt in "Give the model instructions and context", then click Apply Changes
 22. Expand the "Add your data" section and click the "Add a data source"
 
 ### Add data
