@@ -69,3 +69,20 @@
 29. Select the API Key option
 30. After validation, click Save and Close
 
+
+
+## Licensing
+StackExchange Datadump Licensing  
+https://meta.stackexchange.com/questions/401324/announcing-a-change-to-the-data-dump-process
+
+This data is prepared and used by individuals for use _with_ an LLM, not to train an LLM. Think of it this way: training an LLM is like teaching it new skills and knowledge, while accessing your own data with an LLM is like asking a trained expert to interpret or respond based on specific information you provide.
+
+Training an LLM: 
+* Purpose: The data is used to improve or refine the model's ability to understand and generate human-like text.
+* Method: The data is fed into the model during its training phase. This phase involves updating the model's parameters based on the patterns and information found in the data.
+* Scale: Typically involves large volumes of diverse data to ensure the model learns a wide range of language patterns.
+
+Accessing Your Own Data with an LLM: 
+* Purpose: The model is used to process, analyze, or generate responses based on your own specific data.
+* Method: The data is input to the model at runtime (i.e., when the model is already trained), and the model uses its existing knowledge to interpret or generate responses related to that data.
+* Scale: Usually involves a specific subset of data relevant to your needs, rather than the vast and diverse data used for training.
